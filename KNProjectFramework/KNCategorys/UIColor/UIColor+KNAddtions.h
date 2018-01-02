@@ -14,4 +14,12 @@
 
 +(UIColor*)KN_colorWithHex:(long)hexColor;
 
++ (UIColor *)KN_colorWithHexRGB:(NSInteger)RGB;
+
++ (UIColor *)KN_colorWithHexRGBA:(NSInteger)RGBA;
+
++ (UIColor *)KN_r_int:(NSInteger)r g_int:(NSInteger)g b_int:(NSInteger)b a_f:(CGFloat)a;
+
+- (UIImage *)KN_image;
+
 @end

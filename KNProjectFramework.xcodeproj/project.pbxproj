@@ -18,6 +18,34 @@
 		011E93131F2469780082D3C3 /* UIViewController+KNNavigation.m in Sources */ = {isa = PBXBuildFile; fileRef = 011E930B1F2469780082D3C3 /* UIViewController+KNNavigation.m */; };
 		011E93171F2588080082D3C3 /* KNConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 011E93151F2588080082D3C3 /* KNConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		011E93181F2588080082D3C3 /* KNConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = 011E93161F2588080082D3C3 /* KNConstants.m */; };
+		013B301F1FFB6A9300F4A39D /* UIViewController+KNAddtions.h in Headers */ = {isa = PBXBuildFile; fileRef = 013B301D1FFB6A9200F4A39D /* UIViewController+KNAddtions.h */; };
+		013B30201FFB6A9300F4A39D /* UIViewController+KNAddtions.m in Sources */ = {isa = PBXBuildFile; fileRef = 013B301E1FFB6A9300F4A39D /* UIViewController+KNAddtions.m */; };
+		013B30261FFB6AF500F4A39D /* CYAlertView.h in Headers */ = {isa = PBXBuildFile; fileRef = 013B30221FFB6AF500F4A39D /* CYAlertView.h */; };
+		013B30271FFB6AF500F4A39D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 013B30231FFB6AF500F4A39D /* README.md */; };
+		013B30281FFB6AF500F4A39D /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 013B30241FFB6AF500F4A39D /* .gitignore */; };
+		013B30291FFB6AF500F4A39D /* CYAlertView.m in Sources */ = {isa = PBXBuildFile; fileRef = 013B30251FFB6AF500F4A39D /* CYAlertView.m */; };
+		013B302D1FFB6BA600F4A39D /* UIApplication+KNAddtions.m in Sources */ = {isa = PBXBuildFile; fileRef = 013B302B1FFB6BA600F4A39D /* UIApplication+KNAddtions.m */; };
+		013B302E1FFB6BA600F4A39D /* UIApplication+KNAddtions.h in Headers */ = {isa = PBXBuildFile; fileRef = 013B302C1FFB6BA600F4A39D /* UIApplication+KNAddtions.h */; };
+		0153D24C1FFB2EF4005904D7 /* UIButton+KNAddtions.h in Headers */ = {isa = PBXBuildFile; fileRef = 0153D24A1FFB2EF4005904D7 /* UIButton+KNAddtions.h */; };
+		0153D24D1FFB2EF4005904D7 /* UIButton+KNAddtions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0153D24B1FFB2EF4005904D7 /* UIButton+KNAddtions.m */; };
+		0153D2511FFB33F5005904D7 /* UIImage+KNAddtions.h in Headers */ = {isa = PBXBuildFile; fileRef = 0153D24F1FFB33F5005904D7 /* UIImage+KNAddtions.h */; };
+		0153D2521FFB33F5005904D7 /* UIImage+KNAddtions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0153D2501FFB33F5005904D7 /* UIImage+KNAddtions.m */; };
+		0153D2561FFB36AA005904D7 /* NSString+KNAddtions.h in Headers */ = {isa = PBXBuildFile; fileRef = 0153D2541FFB36AA005904D7 /* NSString+KNAddtions.h */; };
+		0153D2571FFB36AA005904D7 /* NSString+KNAddtions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0153D2551FFB36AA005904D7 /* NSString+KNAddtions.m */; };
+		0153D25B1FFB3753005904D7 /* NSData+KNAddtions.h in Headers */ = {isa = PBXBuildFile; fileRef = 0153D2591FFB3753005904D7 /* NSData+KNAddtions.h */; };
+		0153D25C1FFB3753005904D7 /* NSData+KNAddtions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0153D25A1FFB3753005904D7 /* NSData+KNAddtions.m */; };
+		0153D25F1FFB5FCA005904D7 /* UIView+KNAddtions.h in Headers */ = {isa = PBXBuildFile; fileRef = 0153D25D1FFB5FCA005904D7 /* UIView+KNAddtions.h */; };
+		0153D2601FFB5FCA005904D7 /* UIView+KNAddtions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0153D25E1FFB5FCA005904D7 /* UIView+KNAddtions.m */; };
+		0153D2651FFB6653005904D7 /* UIView+KNGridExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = 0153D2611FFB6651005904D7 /* UIView+KNGridExtension.h */; };
+		0153D2661FFB6653005904D7 /* UIView+KNMasonryLayout.h in Headers */ = {isa = PBXBuildFile; fileRef = 0153D2621FFB6652005904D7 /* UIView+KNMasonryLayout.h */; };
+		0153D2671FFB6653005904D7 /* UIView+KNGridExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 0153D2631FFB6652005904D7 /* UIView+KNGridExtension.m */; };
+		0153D2681FFB6653005904D7 /* UIView+KNMasonryLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 0153D2641FFB6653005904D7 /* UIView+KNMasonryLayout.m */; };
+		0153D26B1FFB6797005904D7 /* UIView+KNModalAddtion.m in Sources */ = {isa = PBXBuildFile; fileRef = 0153D2691FFB6796005904D7 /* UIView+KNModalAddtion.m */; };
+		0153D26C1FFB6797005904D7 /* UIView+KNModalAddtion.h in Headers */ = {isa = PBXBuildFile; fileRef = 0153D26A1FFB6796005904D7 /* UIView+KNModalAddtion.h */; };
+		0153D26F1FFB684A005904D7 /* UIView+KNAnimationAddtions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0153D26D1FFB6849005904D7 /* UIView+KNAnimationAddtions.m */; };
+		0153D2701FFB684A005904D7 /* UIView+KNAnimationAddtions.h in Headers */ = {isa = PBXBuildFile; fileRef = 0153D26E1FFB6849005904D7 /* UIView+KNAnimationAddtions.h */; };
+		0153D2741FFB699B005904D7 /* UITableView+KNAddtions.m in Sources */ = {isa = PBXBuildFile; fileRef = 0153D2721FFB699B005904D7 /* UITableView+KNAddtions.m */; };
+		0153D2751FFB699B005904D7 /* UITableView+KNAddtions.h in Headers */ = {isa = PBXBuildFile; fileRef = 0153D2731FFB699B005904D7 /* UITableView+KNAddtions.h */; };
 		01648ED91F259F0700111BD0 /* UIView+KNExtension.h in Headers */ = {isa = PBXBuildFile; fileRef = 01648ED11F259F0700111BD0 /* UIView+KNExtension.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		01648EDA1F259F0700111BD0 /* UIView+KNExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 01648ED21F259F0700111BD0 /* UIView+KNExtension.m */; };
 		01648EDB1F259F0700111BD0 /* UIView+KNRoundSide.h in Headers */ = {isa = PBXBuildFile; fileRef = 01648ED31F259F0700111BD0 /* UIView+KNRoundSide.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -77,6 +105,34 @@
 		011E930B1F2469780082D3C3 /* UIViewController+KNNavigation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+KNNavigation.m"; sourceTree = "<group>"; };
 		011E93151F2588080082D3C3 /* KNConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KNConstants.h; sourceTree = "<group>"; };
 		011E93161F2588080082D3C3 /* KNConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KNConstants.m; sourceTree = "<group>"; };
+		013B301D1FFB6A9200F4A39D /* UIViewController+KNAddtions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+KNAddtions.h"; sourceTree = "<group>"; };
+		013B301E1FFB6A9300F4A39D /* UIViewController+KNAddtions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+KNAddtions.m"; sourceTree = "<group>"; };
+		013B30221FFB6AF500F4A39D /* CYAlertView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYAlertView.h; sourceTree = "<group>"; };
+		013B30231FFB6AF500F4A39D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		013B30241FFB6AF500F4A39D /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		013B30251FFB6AF500F4A39D /* CYAlertView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYAlertView.m; sourceTree = "<group>"; };
+		013B302B1FFB6BA600F4A39D /* UIApplication+KNAddtions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIApplication+KNAddtions.m"; sourceTree = "<group>"; };
+		013B302C1FFB6BA600F4A39D /* UIApplication+KNAddtions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIApplication+KNAddtions.h"; sourceTree = "<group>"; };
+		0153D24A1FFB2EF4005904D7 /* UIButton+KNAddtions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIButton+KNAddtions.h"; sourceTree = "<group>"; };
+		0153D24B1FFB2EF4005904D7 /* UIButton+KNAddtions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIButton+KNAddtions.m"; sourceTree = "<group>"; };
+		0153D24F1FFB33F5005904D7 /* UIImage+KNAddtions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+KNAddtions.h"; sourceTree = "<group>"; };
+		0153D2501FFB33F5005904D7 /* UIImage+KNAddtions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+KNAddtions.m"; sourceTree = "<group>"; };
+		0153D2541FFB36AA005904D7 /* NSString+KNAddtions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSString+KNAddtions.h"; sourceTree = "<group>"; };
+		0153D2551FFB36AA005904D7 /* NSString+KNAddtions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSString+KNAddtions.m"; sourceTree = "<group>"; };
+		0153D2591FFB3753005904D7 /* NSData+KNAddtions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSData+KNAddtions.h"; sourceTree = "<group>"; };
+		0153D25A1FFB3753005904D7 /* NSData+KNAddtions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSData+KNAddtions.m"; sourceTree = "<group>"; };
+		0153D25D1FFB5FCA005904D7 /* UIView+KNAddtions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+KNAddtions.h"; sourceTree = "<group>"; };
+		0153D25E1FFB5FCA005904D7 /* UIView+KNAddtions.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+KNAddtions.m"; sourceTree = "<group>"; };
+		0153D2611FFB6651005904D7 /* UIView+KNGridExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+KNGridExtension.h"; sourceTree = "<group>"; };
+		0153D2621FFB6652005904D7 /* UIView+KNMasonryLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+KNMasonryLayout.h"; sourceTree = "<group>"; };
+		0153D2631FFB6652005904D7 /* UIView+KNGridExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+KNGridExtension.m"; sourceTree = "<group>"; };
+		0153D2641FFB6653005904D7 /* UIView+KNMasonryLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+KNMasonryLayout.m"; sourceTree = "<group>"; };
+		0153D2691FFB6796005904D7 /* UIView+KNModalAddtion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+KNModalAddtion.m"; sourceTree = "<group>"; };
+		0153D26A1FFB6796005904D7 /* UIView+KNModalAddtion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+KNModalAddtion.h"; sourceTree = "<group>"; };
+		0153D26D1FFB6849005904D7 /* UIView+KNAnimationAddtions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+KNAnimationAddtions.m"; sourceTree = "<group>"; };
+		0153D26E1FFB6849005904D7 /* UIView+KNAnimationAddtions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+KNAnimationAddtions.h"; sourceTree = "<group>"; };
+		0153D2721FFB699B005904D7 /* UITableView+KNAddtions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITableView+KNAddtions.m"; sourceTree = "<group>"; };
+		0153D2731FFB699B005904D7 /* UITableView+KNAddtions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UITableView+KNAddtions.h"; sourceTree = "<group>"; };
 		01648ED11F259F0700111BD0 /* UIView+KNExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+KNExtension.h"; sourceTree = "<group>"; };
 		01648ED21F259F0700111BD0 /* UIView+KNExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+KNExtension.m"; sourceTree = "<group>"; };
 		01648ED31F259F0700111BD0 /* UIView+KNRoundSide.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+KNRoundSide.h"; sourceTree = "<group>"; };
@@ -266,6 +322,12 @@
 		011E923D1F245F970082D3C3 /* KNCategorys */ = {
 			isa = PBXGroup;
 			children = (
+				013B302A1FFB6BA600F4A39D /* UIApplication */,
+				013B301C1FFB6A8800F4A39D /* UIViewController */,
+				0153D2711FFB699B005904D7 /* UITableView */,
+				0153D2581FFB3744005904D7 /* NSData */,
+				0153D2531FFB3698005904D7 /* NSString */,
+				0153D24E1FFB31DF005904D7 /* UIImage */,
 				01A8CC901F25F75F005E95B7 /* UILabel */,
 				01648ECE1F259EFF00111BD0 /* Views */,
 				01DC03CF1F25936100257FCB /* UIColor */,
@@ -288,6 +350,7 @@
 		011E923F1F2468A90082D3C3 /* KNVenders */ = {
 			isa = PBXGroup;
 			children = (
+				013B30211FFB6AF500F4A39D /* CYAlertView */,
 				019436631F25CCD900A4E061 /* FDFullscreenPopGesture */,
 				019436661F25CCD900A4E061 /* HWTimer */,
 				019436691F25CCD900A4E061 /* Masonry */,
@@ -320,6 +383,71 @@
 			path = KNConstants;
 			sourceTree = "<group>";
 		};
+		013B301C1FFB6A8800F4A39D /* UIViewController */ = {
+			isa = PBXGroup;
+			children = (
+				013B301D1FFB6A9200F4A39D /* UIViewController+KNAddtions.h */,
+				013B301E1FFB6A9300F4A39D /* UIViewController+KNAddtions.m */,
+			);
+			path = UIViewController;
+			sourceTree = "<group>";
+		};
+		013B30211FFB6AF500F4A39D /* CYAlertView */ = {
+			isa = PBXGroup;
+			children = (
+				013B30221FFB6AF500F4A39D /* CYAlertView.h */,
+				013B30231FFB6AF500F4A39D /* README.md */,
+				013B30241FFB6AF500F4A39D /* .gitignore */,
+				013B30251FFB6AF500F4A39D /* CYAlertView.m */,
+			);
+			path = CYAlertView;
+			sourceTree = "<group>";
+		};
+		013B302A1FFB6BA600F4A39D /* UIApplication */ = {
+			isa = PBXGroup;
+			children = (
+				013B302B1FFB6BA600F4A39D /* UIApplication+KNAddtions.m */,
+				013B302C1FFB6BA600F4A39D /* UIApplication+KNAddtions.h */,
+			);
+			path = UIApplication;
+			sourceTree = "<group>";
+		};
+		0153D24E1FFB31DF005904D7 /* UIImage */ = {
+			isa = PBXGroup;
+			children = (
+				0153D24F1FFB33F5005904D7 /* UIImage+KNAddtions.h */,
+				0153D2501FFB33F5005904D7 /* UIImage+KNAddtions.m */,
+			);
+			path = UIImage;
+			sourceTree = "<group>";
+		};
+		0153D2531FFB3698005904D7 /* NSString */ = {
+			isa = PBXGroup;
+			children = (
+				0153D2541FFB36AA005904D7 /* NSString+KNAddtions.h */,
+				0153D2551FFB36AA005904D7 /* NSString+KNAddtions.m */,
+			);
+			path = NSString;
+			sourceTree = "<group>";
+		};
+		0153D2581FFB3744005904D7 /* NSData */ = {
+			isa = PBXGroup;
+			children = (
+				0153D2591FFB3753005904D7 /* NSData+KNAddtions.h */,
+				0153D25A1FFB3753005904D7 /* NSData+KNAddtions.m */,
+			);
+			path = NSData;
+			sourceTree = "<group>";
+		};
+		0153D2711FFB699B005904D7 /* UITableView */ = {
+			isa = PBXGroup;
+			children = (
+				0153D2721FFB699B005904D7 /* UITableView+KNAddtions.m */,
+				0153D2731FFB699B005904D7 /* UITableView+KNAddtions.h */,
+			);
+			path = UITableView;
+			sourceTree = "<group>";
+		};
 		01648ECE1F259EFF00111BD0 /* Views */ = {
 			isa = PBXGroup;
 			children = (
@@ -329,6 +457,16 @@
 				01648ED41F259F0700111BD0 /* UIView+KNRoundSide.m */,
 				01648ED51F259F0700111BD0 /* UIView+KNToast.h */,
 				01648ED61F259F0700111BD0 /* UIView+KNToast.m */,
+				0153D25D1FFB5FCA005904D7 /* UIView+KNAddtions.h */,
+				0153D25E1FFB5FCA005904D7 /* UIView+KNAddtions.m */,
+				0153D2611FFB6651005904D7 /* UIView+KNGridExtension.h */,
+				0153D2631FFB6652005904D7 /* UIView+KNGridExtension.m */,
+				0153D2621FFB6652005904D7 /* UIView+KNMasonryLayout.h */,
+				0153D2641FFB6653005904D7 /* UIView+KNMasonryLayout.m */,
+				0153D26A1FFB6796005904D7 /* UIView+KNModalAddtion.h */,
+				0153D2691FFB6796005904D7 /* UIView+KNModalAddtion.m */,
+				0153D26E1FFB6849005904D7 /* UIView+KNAnimationAddtions.h */,
+				0153D26D1FFB6849005904D7 /* UIView+KNAnimationAddtions.m */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -342,6 +480,8 @@
 				0183591D1F2591CA00278079 /* UIButton+KNCountDown.m */,
 				018359221F2591CA00278079 /* UIButton+KNSpace.h */,
 				018359231F2591CA00278079 /* UIButton+KNSpace.m */,
+				0153D24A1FFB2EF4005904D7 /* UIButton+KNAddtions.h */,
+				0153D24B1FFB2EF4005904D7 /* UIButton+KNAddtions.m */,
 			);
 			path = UIButton;
 			sourceTree = "<group>";
@@ -600,31 +740,44 @@
 			files = (
 				01A8CCA91F25FE9B005E95B7 /* KNBaseRefreshViewController.h in Headers */,
 				01A8CCAE1F25FEF4005E95B7 /* KNArchiveModel.h in Headers */,
+				013B30261FFB6AF500F4A39D /* CYAlertView.h in Headers */,
 				01A8CC9D1F25F8C3005E95B7 /* KNTextField.h in Headers */,
+				0153D2511FFB33F5005904D7 /* UIImage+KNAddtions.h in Headers */,
 				01A8CC8A1F25F4DF005E95B7 /* KNBaseTableViewCell.h in Headers */,
 				01A8CC931F25F769005E95B7 /* UILabel+KNConvenient.h in Headers */,
 				01A8CC8E1F25F674005E95B7 /* KNCommonCell.h in Headers */,
 				01A8CCA51F25FAE9005E95B7 /* KNTextView.h in Headers */,
+				0153D24C1FFB2EF4005904D7 /* UIButton+KNAddtions.h in Headers */,
 				01A8CC881F25F4DF005E95B7 /* KNBaseTableView.h in Headers */,
+				0153D2751FFB699B005904D7 /* UITableView+KNAddtions.h in Headers */,
 				01A8CC801F25F468005E95B7 /* KNBaseTableViewController.h in Headers */,
+				013B301F1FFB6A9300F4A39D /* UIViewController+KNAddtions.h in Headers */,
 				01A8CCA31F25FAE9005E95B7 /* KNLimitTextView.h in Headers */,
 				019437461F25E12D00A4E061 /* KNHelperFunctions.h in Headers */,
 				01A8CC9B1F25F8C3005E95B7 /* KNLimitTextField.h in Headers */,
 				0194374E1F25E1F700A4E061 /* KNNetAPIManager.h in Headers */,
 				0194374C1F25E1F700A4E061 /* KNNetBaseRequest.h in Headers */,
+				0153D2661FFB6653005904D7 /* UIView+KNMasonryLayout.h in Headers */,
 				018359261F2591CA00278079 /* UIButton+KNCountDown.h in Headers */,
 				01DC03DE1F25939000257FCB /* UIColor+KNAddtions.h in Headers */,
+				0153D26C1FFB6797005904D7 /* UIView+KNModalAddtion.h in Headers */,
 				011E93101F2469780082D3C3 /* KNNavigationController.h in Headers */,
 				01648ED91F259F0700111BD0 /* UIView+KNExtension.h in Headers */,
 				011E924E1F2469110082D3C3 /* KNBaseViewController.h in Headers */,
 				018358691F258D3D00278079 /* KNMacroDefines.h in Headers */,
 				0183592C1F2591CA00278079 /* UIButton+KNSpace.h in Headers */,
+				0153D25F1FFB5FCA005904D7 /* UIView+KNAddtions.h in Headers */,
 				011E93171F2588080082D3C3 /* KNConstants.h in Headers */,
 				011E930E1F2469780082D3C3 /* KNNavigationBar.h in Headers */,
+				0153D2701FFB684A005904D7 /* UIView+KNAnimationAddtions.h in Headers */,
+				0153D2561FFB36AA005904D7 /* NSString+KNAddtions.h in Headers */,
 				011E93121F2469780082D3C3 /* UIViewController+KNNavigation.h in Headers */,
 				018359241F2591CA00278079 /* UIButton+KNConvenient.h in Headers */,
 				01648EDB1F259F0700111BD0 /* UIView+KNRoundSide.h in Headers */,
 				01648EDD1F259F0700111BD0 /* UIView+KNToast.h in Headers */,
+				0153D2651FFB6653005904D7 /* UIView+KNGridExtension.h in Headers */,
+				0153D25B1FFB3753005904D7 /* NSData+KNAddtions.h in Headers */,
+				013B302E1FFB6BA600F4A39D /* UIApplication+KNAddtions.h in Headers */,
 				011E92341F245EA40082D3C3 /* KNProjectFramework.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -688,6 +841,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				013B30271FFB6AF500F4A39D /* README.md in Resources */,
+				013B30281FFB6AF500F4A39D /* .gitignore in Resources */,
 				019436B91F25D5DC00A4E061 /* KNProjectFramework.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -701,13 +856,19 @@
 			files = (
 				011E93111F2469780082D3C3 /* KNNavigationController.m in Sources */,
 				011E930F1F2469780082D3C3 /* KNNavigationBar.m in Sources */,
+				013B302D1FFB6BA600F4A39D /* UIApplication+KNAddtions.m in Sources */,
 				011E924F1F2469110082D3C3 /* KNBaseViewController.m in Sources */,
 				01A8CC8F1F25F674005E95B7 /* KNCommonCell.m in Sources */,
 				01A8CCAA1F25FE9B005E95B7 /* KNBaseRefreshViewController.m in Sources */,
 				018359271F2591CA00278079 /* UIButton+KNCountDown.m in Sources */,
 				01A8CC9C1F25F8C3005E95B7 /* KNLimitTextField.m in Sources */,
+				013B30291FFB6AF500F4A39D /* CYAlertView.m in Sources */,
+				0153D26F1FFB684A005904D7 /* UIView+KNAnimationAddtions.m in Sources */,
+				0153D2521FFB33F5005904D7 /* UIImage+KNAddtions.m in Sources */,
 				01A8CC9E1F25F8C3005E95B7 /* KNTextField.m in Sources */,
+				0153D2671FFB6653005904D7 /* UIView+KNGridExtension.m in Sources */,
 				01A8CC941F25F769005E95B7 /* UILabel+KNConvenient.m in Sources */,
+				013B30201FFB6A9300F4A39D /* UIViewController+KNAddtions.m in Sources */,
 				011E93131F2469780082D3C3 /* UIViewController+KNNavigation.m in Sources */,
 				01A8CC891F25F4DF005E95B7 /* KNBaseTableView.m in Sources */,
 				01A8CCAF1F25FEF4005E95B7 /* KNArchiveModel.m in Sources */,
@@ -718,11 +879,18 @@
 				011E93181F2588080082D3C3 /* KNConstants.m in Sources */,
 				01A8CCA41F25FAE9005E95B7 /* KNLimitTextView.m in Sources */,
 				0194374D1F25E1F700A4E061 /* KNNetBaseRequest.m in Sources */,
+				0153D2601FFB5FCA005904D7 /* UIView+KNAddtions.m in Sources */,
 				0183592D1F2591CA00278079 /* UIButton+KNSpace.m in Sources */,
+				0153D2741FFB699B005904D7 /* UITableView+KNAddtions.m in Sources */,
+				0153D25C1FFB3753005904D7 /* NSData+KNAddtions.m in Sources */,
+				0153D24D1FFB2EF4005904D7 /* UIButton+KNAddtions.m in Sources */,
 				01648EDC1F259F0700111BD0 /* UIView+KNRoundSide.m in Sources */,
+				0153D2571FFB36AA005904D7 /* NSString+KNAddtions.m in Sources */,
 				01A8CCA61F25FAE9005E95B7 /* KNTextView.m in Sources */,
+				0153D2681FFB6653005904D7 /* UIView+KNMasonryLayout.m in Sources */,
 				01648EDA1F259F0700111BD0 /* UIView+KNExtension.m in Sources */,
 				01A8CC811F25F468005E95B7 /* KNBaseTableViewController.m in Sources */,
+				0153D26B1FFB6797005904D7 /* UIView+KNModalAddtion.m in Sources */,
 				0194374F1F25E1F700A4E061 /* KNNetAPIManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

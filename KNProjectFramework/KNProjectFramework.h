@@ -19,12 +19,25 @@ FOUNDATION_EXPORT const unsigned char KNProjectFrameworkVersionString[];
 // categorys
 #import <KNProjectFramework/UIView+KNToast.h>
 #import <KNProjectFramework/UIView+KNExtension.h>
+#import <KNProjectFramework/UIView+KNAddtions.h>
 #import <KNProjectFramework/UIView+KNRoundSide.h>
+#import <KNProjectFramework/UIView+KNGridExtension.h>
+#import <KNProjectFramework/UIView+KNMasonryLayout.h>
+#import <KNProjectFramework/UIView+KNModalAddtion.h>
+#import <KNProjectFramework/UITableView+KNAddtions.h>
 #import <KNProjectFramework/UIColor+KNAddtions.h>
 #import <KNProjectFramework/UIButton+KNConvenient.h>
 #import <KNProjectFramework/UIButton+KNCountDown.h>
+#import <KNProjectFramework/UIButton+KNAddtions.h>
 #import <KNProjectFramework/UIButton+KNSpace.h>
 #import <KNProjectFramework/UILabel+KNConvenient.h>
+#import <KNProjectFramework/UIImage+KNAddtions.h>
+#import <KNProjectFramework/NSString+KNAddtions.h>
+#import <KNProjectFramework/NSData+KNAddtions.h>
+#import <KNProjectFramework/UIViewController+KNAddtions.h>
+#import <KNProjectFramework/UIApplication+KNAddtions.h>
+
+
 
 
 // viewcontrollers
