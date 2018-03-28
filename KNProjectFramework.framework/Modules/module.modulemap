@@ -1,0 +1,6 @@
+framework module KNProjectFramework {
+  umbrella header "KNProjectFramework.h"
+
+  export *
+  module * { export * }
+}
