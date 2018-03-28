@@ -7,7 +7,7 @@
 //
 
 #import "UIView+KNGridExtension.h"
-#import "UIView+KNAddtions.h"
+#import "UIView+KNAddtion.h"
 #import "KNMacroDefines.h"
 #import "UIColor+KNAddtions.h"
 

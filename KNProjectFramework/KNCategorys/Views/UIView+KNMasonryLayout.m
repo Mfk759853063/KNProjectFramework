@@ -7,6 +7,7 @@
 //
 
 #import "UIView+KNMasonryLayout.h"
+#import "Masonry.h"
 
 @implementation UIView (KNMasonryLayout)
 

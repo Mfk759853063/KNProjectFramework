@@ -7,7 +7,7 @@
 //
 
 #import "KNNetAPIManager.h"
-
+#import <UIKit/UIKit.h>
 @interface KNNetAPIManager ()
 
 @property (strong, nonatomic) NSOperationQueue *queue;

@@ -19,7 +19,7 @@ FOUNDATION_EXPORT const unsigned char KNProjectFrameworkVersionString[];
 // categorys
 #import <KNProjectFramework/UIView+KNToast.h>
 #import <KNProjectFramework/UIView+KNExtension.h>
-#import <KNProjectFramework/UIView+KNAddtions.h>
+#import <KNProjectFramework/UIView+KNAddtion.h>
 #import <KNProjectFramework/UIView+KNRoundSide.h>
 #import <KNProjectFramework/UIView+KNGridExtension.h>
 #import <KNProjectFramework/UIView+KNMasonryLayout.h>
@@ -36,8 +36,6 @@ FOUNDATION_EXPORT const unsigned char KNProjectFrameworkVersionString[];
 #import <KNProjectFramework/NSData+KNAddtions.h>
 #import <KNProjectFramework/UIViewController+KNAddtions.h>
 #import <KNProjectFramework/UIApplication+KNAddtions.h>
-
-
 
 
 // viewcontrollers
@@ -67,3 +65,6 @@ FOUNDATION_EXPORT const unsigned char KNProjectFrameworkVersionString[];
 
 // models
 #import <KNProjectFramework/KNArchiveModel.h>
+
+// storege
+#import <KNProjectFramework/KNCache.h>

@@ -7,7 +7,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "AFNetworking.h"
 
 typedef enum : NSUInteger {
     KNNetRequestGET = 1,

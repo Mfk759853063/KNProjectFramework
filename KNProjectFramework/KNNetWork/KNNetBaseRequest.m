@@ -7,6 +7,7 @@
 //
 
 #import "KNNetBaseRequest.h"
+#import "AFNetworking.h"
 
 @interface KNNetBaseRequest ()
 
